@@ -1,5 +1,5 @@
-# Attrition Analysis Bi Case Study
-## ABC Corporation Power BI Analysis 
+# Attrition Analysis Power BI Case Study
+## ABC Corporation Analysis 
 
 ## Project Objectives:
 1. **Identify Key Drivers of Attrition:** Determine the primary factors influencing employee attrition within the organization.
